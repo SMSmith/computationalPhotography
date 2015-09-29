@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
-###############################################################################
-### Stephen Smith 															###
-### 9-29-15																	###
-### This software serves as a demonstration of Eulerian Video Magnification ###
-### It was written for assignment for 15-463 Computational Photography at   ###
-### CMU 
+###############################################################################################
+### Stephen Smith 																			###	
+### 9-29-15																					###
+### This software serves as a demonstration of Eulerian Video Magnification 				###
+### It was written for assignment for 15-463 Computational Photography at   				###
+### CMU.  The results will be displayed here:												###
+### https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15463-f15-users/smsmith/proj2/www/	###
+###############################################################################################
 
 import cv2
 import os
@@ -23,7 +25,6 @@ def main():
 		createImageLibrary(faceVidFile,faceOutDir)
 	if not os.path.isfile(babyOutDir+'frame1.jpg'):
 		createImageLibrary(babyVidFile,babyOutDir)
-
 
 ###############################################################################
 ### createImageLibrary 														###
