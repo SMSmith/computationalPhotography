@@ -9,3 +9,6 @@ The first assignment is channel alignment.  Given RGB color channels, combine th
 
 ## Eulerian Video Magnification
 The second assignment is Eulerian Video Magnification.  The results of this can be found here: https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15463-f15-users/smsmith/proj2/www/
+
+## Gradient-Domain Fusion (Poisson Blending)
+The third assignment deals with Poisson Image Blending.  The results of this can be found here: https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15463-f15-users/smsmith/proj3/www/
