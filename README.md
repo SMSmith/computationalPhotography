@@ -14,5 +14,5 @@ The second assignment is Eulerian Video Magnification.  The results of this can 
 The third assignment deals with Poisson Image Blending.  The results of this can be found here: https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15463-f15-users/smsmith/proj3/www/
 
 ## Facial Warping
-This assignment takes two images and morphs them together iin both the spatial and color domains.  The fusing of these images causes seamless results as shown here:
+This assignment takes two images and morphs them together in both the spatial and color domains.  The fusing of these images causes seamless results as shown here:
 https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15463-f15-users/smsmith/proj4/www/
