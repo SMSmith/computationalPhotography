@@ -127,7 +127,7 @@ def averageFace(pointsDir,imagesDir):
 	cv2.waitKey()
 	cv2.destroyAllWindows()
 
-	cv2.imwrite('average.jpg',img
+	cv2.imwrite('average.jpg',img)
 
 ###############################################################################
 # Takes two images, corresponding feature points for both images, Delauney 
